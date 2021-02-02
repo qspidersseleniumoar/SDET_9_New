@@ -6,5 +6,11 @@ public class Contact {
 		System.out.println("step-1");
 		System.out.println("step-2");
 	}
+	
+	public void createConatct(String lastName , String fNAme) {
+		System.out.println("step-1");
+		System.out.println("step-2");
+	}
+
 
 }
