@@ -11,6 +11,13 @@ public class Contact {
 		System.out.println("step-1");
 		System.out.println("step-2");
 	}
+	/**
+	 * Ram
+	 */
+	public void deletecontact() {
+		System.out.println("step-1");
+		System.out.println("step-2");
+	}
 
 
 }
